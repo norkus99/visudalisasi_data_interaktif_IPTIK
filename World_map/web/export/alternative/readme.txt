@@ -1,0 +1,1 @@
+If there is a problem exporting images with the default php files, the php files in this directory could be tried as an alternative.
